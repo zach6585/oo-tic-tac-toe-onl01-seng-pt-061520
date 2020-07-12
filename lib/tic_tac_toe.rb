@@ -78,7 +78,7 @@ class TicTacToe
         if a == ""
           a = @board[space]
         else 
-          if a == @board[space]
+          if a == @board[space] && @board[space] != " "
             b +=1 
           end 
         end 
