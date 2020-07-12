@@ -142,4 +142,4 @@ class TicTacToe
   
 end 
 
-binding.pry
+# binding.pry
